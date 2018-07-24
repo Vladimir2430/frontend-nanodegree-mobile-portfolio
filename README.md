@@ -1,6 +1,3 @@
-https://github.com/uladzimir-yeudakimovich/frontend-nanodegree-mobile-portfolio/blob/gh-pages/index.html </br>
- <hr/>
-
 # Do you want to see my simple portfolio?
 # <a href="http://uladzimir-yeudakimovich.ml/frontend-nanodegree-mobile-portfolio">Click there ;)</a>
 # Do you want to see the optimization?
